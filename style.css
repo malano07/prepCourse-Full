@@ -1,0 +1,22 @@
+body {
+
+    margin: auto;
+    
+}
+
+header {
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    width: 65%;
+        
+    .menu{
+
+        display: flex;
+        flex-direction: row;
+
+    }
+
+    
+}
